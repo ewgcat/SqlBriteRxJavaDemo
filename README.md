@@ -1,0 +1,4 @@
+# SqlBriteRxJavaDemo
+RxJava+SqlBrite学习Demo
+
+这是一个操作数据库的Demo演示，采用的是JakeWhaton的SqlBrite框架，供学习参考
